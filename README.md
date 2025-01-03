@@ -1,7 +1,7 @@
-# cbpavailability
+# CBP Availability
 A script for checking the availability of cbp (Nexus, Global Entry)
 
-## Prerequsite
+## Prerequisite
 pip3 install argparse chime requests
 
 ## Usage
